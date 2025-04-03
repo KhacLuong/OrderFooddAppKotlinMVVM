@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "751467771072",
+    "firebase_url": "https://cinemamanager-d0c3e-default-rtdb.firebaseio.com",
+    "project_id": "cinemamanager-d0c3e",
+    "storage_bucket": "cinemamanager-d0c3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751467771072:android:75e28759779234dcba2925",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMJ4SsPLml-tJ4GZYptXaYjlsg8YQY4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751467771072:android:be176b0d41989dd5ba2925",
+        "android_client_info": {
+          "package_name": "com.example.mycinemamanagerkotlinmvc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMJ4SsPLml-tJ4GZYptXaYjlsg8YQY4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
